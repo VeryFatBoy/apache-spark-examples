@@ -6,4 +6,5 @@
 - [Quick tip: Using SingleStore Spark Connector's Query Pushdown with SingleStore Notebooks](https://medium.com/@VeryFatBoy/quick-tip-using-singlestore-spark-connectors-query-pushdown-with-singlestore-notebooks-897990044596)
 - [Quick tip: Using Apache Spark Structured Streaming with SingleStore Notebooks](https://medium.com/@VeryFatBoy/quick-tip-using-apache-spark-structured-streaming-with-singlestore-notebooks-3b56be3d6502)
 - [Quick tip: Using Apache Spark and GraphFrames with SingleStore Notebooks](https://medium.com/@VeryFatBoy/quick-tip-using-apache-spark-and-graphframes-with-singlestore-notebooks-833409000625)
+- [Quick tip: Using SingleStoreDB with Delta Lake](https://medium.com/@VeryFatBoy/quick-tip-using-singlestoredb-with-delta-lake-f29b53cb5dda)
 - [Quick tip: Adding SingleStoreDB to an Apache Iceberg Data Lake](https://medium.com/@VeryFatBoy/quick-tip-add-singlestoredb-to-an-apache-iceberg-data-lake-9f9e7251b566)
